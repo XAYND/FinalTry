@@ -8,5 +8,8 @@ export default defineConfig({
     tailwindcss(),
     react()],
     base: '/FinalTry/', // <-- remplace par ton dépôt GitHub Pages (exemple : /newstream/)
+    build: {
+      outDir: 'docs', // <-- Modification ici
+    },
 });
 
