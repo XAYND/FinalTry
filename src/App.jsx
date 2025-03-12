@@ -54,7 +54,7 @@ function App() {
           <div className="absolute inset-0 bg-black bg-opacity-40"></div>
 
           <header className="relative z-10 p-4 flex justify-center items-center bg-gray-900 bg-opacity-80 shadow-md">
-            <img src="/FinalTry/assets/logo.png" alt="PrimeStream Logo" className="w-24 md:w-28 lg:w-32" />
+            <img src="assets/logo.png" alt="PrimeStream Logo" className="w-24 md:w-28 lg:w-32" />
           </header>
 
           <div className="relative z-10 p-6 grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
