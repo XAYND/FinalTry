@@ -29,7 +29,7 @@ function App() {
             loop
             muted
           >
-            <source src="/assets/welcome2.mp4" type="video/mp4" />
+            <source src="/FinalTry//assets/welcome2.mp4" type="video/mp4" />
             Votre navigateur ne supporte pas la lecture de vidéos.
           </video>
 
@@ -47,14 +47,14 @@ function App() {
         <div className="relative w-screen min-h-screen">
           <div 
             className="absolute top-0 left-0 w-full h-full bg-cover bg-center bg-no-repeat"
-            style={{ backgroundImage: "url('/assets/streaming-bg3.jpg')" }}
+            style={{ backgroundImage: "url('/FinalTry/assets/streaming-bg3.jpg')" }}
           ></div>
 
         
           <div className="absolute inset-0 bg-black bg-opacity-40"></div>
 
           <header className="relative z-10 p-4 flex justify-center items-center bg-gray-900 bg-opacity-80 shadow-md">
-            <img src="/assets/logo.png" alt="PrimeStream Logo" className="w-24 md:w-28 lg:w-32" />
+            <img src="/FinalTry/assets/logo.png" alt="PrimeStream Logo" className="w-24 md:w-28 lg:w-32" />
           </header>
 
           <div className="relative z-10 p-6 grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
