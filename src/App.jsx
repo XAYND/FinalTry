@@ -11,7 +11,7 @@ function App() {
   const channels = [
     { name: "Canal+Sport-360", url: "https://direct-streamfr.live/player.php?id=12", image: "/FinalTry/assets/Canal-plus-sport-360.jpg" },
     { name: "Canal+", url: "https://direct-streamfr.live/player.php?id=40", image: "/FinalTry//assets/canalplus-logo.jpg" },
-    { name: "Canal+Formula", url: "https://daddylive.mp/stream/stream-273.php", image: "/FinalTry/assets/Canal-Formula-1.jpg" },
+    { name: "Canal+Formula", url: "https://thedaddy.to/embed/stream-273.php", image: "/FinalTry/assets/Canal-Formula-1.jpg" },
     { name: "Canal+Foot", url: "https://direct-streamfr.live/player.php?id=6", image: "/FinalTry//assets/canal-foot.jpg" },
     { name: "BeinSport 1", url: "https://direct-streamfr.live/player.php?id=8", image: "/FinalTry/assets/bein-sports1.jpg" },
     { name: "RMC SPORT 1", url: "https://direct-streamfr.live/player.php?id=1", image: "/FinalTry/assets/rmc-sports1.jpg" },
